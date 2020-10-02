@@ -1,4 +1,4 @@
-Tumblr-Backup
+Tumblr-(Backup)
 =============
 
-A simple website to back up Tumblr blogs
+A user-friendly website to back up your Tumblr blogs
